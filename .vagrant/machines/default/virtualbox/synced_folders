@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/pbenjamin/github/flare-on-2016","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/vagrant_challenges":{"guestpath":"/vagrant_challenges","hostpath":"/Users/pbenjamin/github/flare-on-2016/challenges","disabled":false,"__vagrantfile":true}}}
